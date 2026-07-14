@@ -19,3 +19,62 @@
             </ul>
         </nav>
     </header>
+<body>
+    <header class="navbar">
+        <div class="logo">Me Market</div>
+        <nav>
+            <ul>
+                <li><a href="#hero">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero" class="hero-section">
+        <div class="hero-content">
+            <h1>Shop from us</h1>
+            <p>Quality with best service for our customers. Experience premium marketplace standards today.</p>
+            <a href="#features" class="cta-btn">Explore Features</a>
+        </div>
+    </section>
+
+    <section id="features" class="section features-section">
+        <h2>Our Core Features</h2>
+        <div class="grid-container">
+            <div class="card">
+                <h3>Fast Delivery</h3>
+                <p>Get your marketplace items delivered securely to your doorstep in record time.</p>
+            </div>
+            <div class="card">
+                <h3>Top Quality</h3>
+                <p>We handpick our vendors to ensure you only receive vetted, premium products.</p>
+            </div>
+            <div class="card">
+                <h3>24/7 Support</h3>
+                <p>Our dedicated customer support crew is always ready to assist you round the clock.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="section about-section">
+        <div class="about-content">
+            <h2>About Our Marketplace</h2>
+            <p>Founded with a vision to connect customers with unparalleled quality, Me Marketplace serves as a modern bridge between top-tier manufacturers and conscious consumers. We prioritize sustainability, speed, and seamless user experiences above all else.</p>
+        </div>
+    </section>
+
+    <footer id="contact">
+        <div class="footer-container">
+            <p>&copy; 2026 Me Marketplace. All rights reserved.</p>
+            <ul class="social-links">
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">LinkedIn</a></li>
+                <li><a href="#">GitHub</a></li>
+            </ul>
+        </div>
+    </footer>
+
+</body>
+</html>
